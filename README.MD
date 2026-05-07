@@ -130,7 +130,7 @@ The purpose of the ML section was to demonstrate a basic machine learning workfl
 
 
 
-Author
+# Author
 
 Semyon Sidorov
 
